@@ -45,7 +45,7 @@ export default function Discovery() {
               into sprints to keep progress transparent and iterative.
             </p>
             <p className="text-gray-800 leading-relaxed mb-4 text-sm sm:text-base">
-              Our primary users were internal managers across Walmart, Sam's Club,
+                                     Our primary users were internal managers across Walmart, Sam&apos;s Club,
               and Campus corporate teams. This included both hourly and salaried
               managers responsible for store operations and associate management.
             </p>

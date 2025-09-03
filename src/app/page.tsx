@@ -19,7 +19,7 @@ export default function Page() {
             Manager Hub
           </h1>
           <p className="text-lg sm:text-xl text-[#111111] leading-relaxed">
-            A workforce management application for Walmart, Sam's Club, and
+            A workforce management application for Walmart, Sam&apos;s Club, and
             Campus corporate managers
           </p>
         </div>
@@ -40,7 +40,7 @@ export default function Page() {
           Overview
         </h2>
         <p className="text-base sm:text-lg leading-relaxed text-[#111111]">
-          Manager Hub is part of the Me@ ecosystem and serves Walmart, Sam's
+          Manager Hub is part of the Me@ ecosystem and serves Walmart, Sam&apos;s
           Club, and campus corporate managers across both hourly and salaried
           roles. The platform streamlines core manager responsibilities
           including performance tracking, associate transfers, and career
@@ -76,7 +76,7 @@ export default function Page() {
             </h2>
             <p className="text-base sm:text-lg leading-relaxed text-[#111111]">
               We created the Manager Hub, a centralized application that gives
-              Walmart, Sam's Club, and campus managers a single platform to manage
+              Walmart, Sam&apos;s Club, and campus managers a single platform to manage
               performance, transfers, and associate achievements. By streamlining
               workflows and enabling direct interaction with associates, the
               platform reduced complexity and improved both efficiency and

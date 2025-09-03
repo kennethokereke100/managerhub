@@ -17,7 +17,7 @@ export default function HMW() {
         <div>
           <h2 className="text-2xl sm:text-3xl font-bold text-gray-900 mb-4">How Might We</h2>
           <p className="text-gray-700 mb-4 text-sm sm:text-base">
-            As the UX Designer, I introduced the "How Might We" framework after
+            As the UX Designer, I introduced the &ldquo;How Might We&rdquo; framework after
             discovery to reframe manager frustrations into actionable design
             opportunities. Using findings from Zoom calls and Dovetail, I
             created six HMWs to guide ideation.

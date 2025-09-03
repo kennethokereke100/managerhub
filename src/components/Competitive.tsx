@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 
 const Competitive = () => {
   return (
@@ -31,9 +32,26 @@ const Competitive = () => {
           </p>
         </div>
 
-        {/* Right Column */}
-        <div className="bg-gray-200 h-[200px] sm:h-[250px] lg:h-[400px] flex items-center justify-center text-gray-500 italic rounded-md">
-          Placeholder for competitive analysis visuals
+        {/* Right Column - Competitor Images */}
+        <div className="space-y-4">
+          <div className="relative w-full h-[200px] sm:h-[250px] lg:h-[300px] rounded-lg overflow-hidden shadow-lg">
+            <Image
+              src="/competitor1.png"
+              alt="Competitor analysis visualization 1 - Workforce management tool comparison"
+              fill
+              className="object-cover"
+              sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+            />
+          </div>
+          <div className="relative w-full h-[200px] sm:h-[250px] lg:h-[300px] rounded-lg overflow-hidden shadow-lg">
+            <Image
+              src="/competitor2.png"
+              alt="Competitor analysis visualization 2 - Performance tracking comparison"
+              fill
+              className="object-cover"
+              sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+            />
+          </div>
         </div>
       </div>
     </div>

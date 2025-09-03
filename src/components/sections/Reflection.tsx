@@ -34,9 +34,9 @@ export default function Reflection() {
             managers could maintain focus and momentum throughout their day. The
             simplified workflows reduced cognitive load and eliminated the frustration
             of navigating between multiple systems. What emerged was a more
-            human-centered experience that respected managers' time and expertise,
+                         human-centered experience that respected managers&apos; time and expertise,
             ultimately leading to better outcomes for both managers and associates
-            across Walmart, Sam's Club, and Campus locations.
+                         across Walmart, Sam&apos;s Club, and Campus locations.
           </p>
         </div>
       </div>
